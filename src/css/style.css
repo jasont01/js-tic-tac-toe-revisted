@@ -13,7 +13,6 @@ body {
   color: #fff;
   border: 6px solid #263849;
   border-radius: 10px;
-	
 	display: grid;
 	grid-template: repeat(3, 1fr) / repeat(3, 1fr);
 }
@@ -28,15 +27,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.box button {
-  border: none;
-  text-shadow: 2px 2px rgb(97, 124, 182);
   background: transparent;
-  width: 100%;
-  height: 100%;
-  outline: none;
+  text-shadow: 2px 2px rgb(97, 124, 182);
 }
 
 .container {
